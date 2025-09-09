@@ -9,14 +9,40 @@
 
 ---
 
-## 👨‍💻 About Me
+## 🌐 Connect with Me
 
-* 🎓 College student in the **Computer Science Program** at BINUS University  
-* 🧑‍🏫 **Software Laboratory Assistant** at SLC in BINUS University (teaching & mentoring) 
-* 🌱 Currently exploring **AI/ML, Software Engineering, and System Design**
-* 💡 Passionate about **teaching, research, and building impactful projects**
-* ⚡ Interested in **open-source, backend development, and cloud computing**
-* 📚 Always learning and improving through **self-development and side projects**
+<a href="https://www.instagram.com/w.sen_06" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+<a href="https://www.linkedin.com/in/willsen-wiratan/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://medium.com/@legendarygames888" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+</a>
+<a href="https://discord.gg/s7yGrV2F" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+</a>
+<a href="https://www.kaggle.com/willywinata18" target="_blank">
+  <img src="https://img.shields.io/badge/Kaggle-%2301A9F4.svg?&style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
+</a>
+
+---
+
+## 🤖 About Me
+
+- 🎓 College student in the **Computer Science Program** at BINUS University
+- 💻 **Software Laboratory Assistant** at SLC in BINUS University (teaching & mentoring)
+- 🌱 Currently exploring **AI/ML, Software Engineering, and System Design**
+- 💡 Passionate about **teaching, research, and building impactful projects**
+- ⚡ Interested in **open-source, backend development, and cloud computing**
+- 📚 Always learning and improving through **self-development and side projects**
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WillyWinata&locale=en&hide_title=false&layout=compact&langs_count=6&theme=dark&order=2" width="400"/>
+</div>
 
 ---
 
@@ -50,6 +76,7 @@
 ---
 
 ## 🛠️ Tools & Platforms
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -64,15 +91,3 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WillyWinata&show_icons=true&theme=dark" />
-</p>
-
----
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WillyWinata&locale=en&hide_title=false&layout=compact&langs_count=6&theme=dark&hide_border=true&order=2" height="200" alt="languages graph"  />
-</p>
